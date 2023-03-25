@@ -186,6 +186,7 @@ nav:
             - Nginx: kubernetes/ingress/nginx.md
           - Persistence:
             - kubernetes/persistence/index.md
+            - NFS-Subdirectory-Provider: kubernetes/persistence/nfs-subdirectory-provider.md
             - Local Path Provisioner: kubernetes/persistence/local-path-provisioner.md
             - TopoLVM: kubernetes/persistence/topolvm.md
             # - OpenEBS: kubernetes/persistence/openebs.md
